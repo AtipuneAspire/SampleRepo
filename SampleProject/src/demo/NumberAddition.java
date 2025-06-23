@@ -6,5 +6,6 @@ public class NumberAddition {
 		int b=20;;
 		int sum=a+b; //hello sample comment
 		System.out.println("sum");
+//sample commnet consider to be as new code line
 	}
 }
